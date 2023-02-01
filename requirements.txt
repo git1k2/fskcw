@@ -1,0 +1,11 @@
+croniter
+gpiozero
+pause
+rich
+rpi.gpio
+
+#psutil
+#pyvicp
+pyvisa
+pyvisa-py
+#zeroconf
