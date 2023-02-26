@@ -8,8 +8,8 @@
 * Create Python virtual environment and install required packages.
 
         python3 -m venv venv
-        venv/bin/activate
-        pip -r install requirements
+        source venv/bin/activate
+        pip -r install requirements.txt
 
 * Run the script
 
